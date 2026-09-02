@@ -10,7 +10,7 @@ Explain how Binary Search applies the divide-and-conquer concept. What is its ti
 
 ### Solution
 
-According to the scenario using the(binary search applies the divide and conquer)
+According to the scenario using the binary search applies the divide and conquer.
 
 ### Binary Search applies the Divide-and-Conquer
 
