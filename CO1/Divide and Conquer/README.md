@@ -8,6 +8,12 @@ A company has a sorted database containing millions of employee IDs.
 
 Explain how Binary Search applies the divide-and-conquer concept. What is its time complexity?
 
+### Solution
+
+According to the scenario using the(binary search applies the divide and conquer)
+
+### Binary Search applies the Divide-and-Conquer
+
 ### Example
 
 Imagine a company has millions of employee IDs, and they are stored in sorted order.
@@ -15,8 +21,6 @@ Imagine a company has millions of employee IDs, and they are stored in sorted or
 **Employee IDs:**
 
 1001, 1005, 1010, 1015, 1020, 1025, 1030, 1035, 1040
-
-### Binary Search applies the Divide-and-Conquer
 
 Suppose we want to search = **1025 (target)**
 
